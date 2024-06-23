@@ -1,0 +1,21 @@
+.transection{
+    display: none;
+}
+.deposit{
+  
+    background: slateblue ;
+}
+.withdraw{
+   
+    background: lightsalmon;
+}
+.balance{
+   
+    background: orange;
+}
+.state{
+    margin: 10px;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+}
